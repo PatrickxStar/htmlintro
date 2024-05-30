@@ -1,0 +1,21 @@
+p {
+    color: orange;
+}
+/* Selecting every 2 paragraph* - computers start counting at zero*/
+p:nth-child(2n) {
+    color: green;
+}
+
+/* this gives divs a dashed border*/
+div {
+    border-style: dashed;
+    border-radius: 10px;
+    border-color: blue;
+    border-width: 5px;
+}
+/*this is a comment in css*/
+#firstDiv
+
+#secondDiv {
+    border: red 2px solid;
+}
